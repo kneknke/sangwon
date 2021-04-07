@@ -4,13 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksone02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <h4>Interest<h4>
-    
-    •Full-stack develop
-    
-    •Game develop
-    
-    •Application develop
-  
 <a href="https://www.instagram.com/ksone02/"><img src="https://img.shields.io/badge/ksone02-11B48A?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ksone02"/></a>
 </p>
