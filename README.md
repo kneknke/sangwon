@@ -1,7 +1,7 @@
 # sangwon
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SangwonKang&fontSize=90)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksone02)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksone02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksone02&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksone02)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
