@@ -39,6 +39,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/-Adobe PhotoShop-31A8FF?style=flat-square&logo=Adobe-PhotoShop&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Adobe After Effects-9999FF?style=flat-square&logo=Adobe-After-Effects&logoColor=white"/>
