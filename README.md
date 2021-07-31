@@ -50,7 +50,7 @@
 
 <div display="flex" flex-direction="row">
   <img src="https://github-readme-stats.vercel.app/api?username=ksone02&&show_icons=true" width="57.3%" height="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksone02&layout=compact&langs_count=8" width="42.2%" height="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksone02&layout=compact&langs_count=10" width="42.2%" height="300px"/>
 </div>
 
 <h3 align="center">Me</h3>
