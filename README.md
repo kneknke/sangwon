@@ -1,7 +1,7 @@
 
-<h3 align="center">Techs that I've used at least once</h2>
+<h2 align="center">Techs that I've used at least once</h2>
 
-<h4 align="center">🌲Front🌲</h3>
+<h3 align="center">🌲Front🌲</h3>
 <p align="center">  
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Styled Components-DB7093?style=flat-square&logo=Styled-Components&logoColor=white"/>
 </p>
 
-<h4 align="center">☄Back☄</h3>
+<h3 align="center">☄Back☄</h3>
 <p align="center">  
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -32,7 +32,7 @@
 </p>
 
 
-<h4 align="center">🌊Programming🌊</h3>
+<h3 align="center">🌊Programming🌊</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
 </p>
 
-<h4 align="center">🔨Tools🔨</h3>
+<h3 align="center">🔨Tools🔨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksone02&layout=compact&langs_count=10" height="20%" height="300px"/>
 </p>
 
-<h3 align="center">🍀Sangwon🍀</h2>
+<h2 align="center">🍀Sangwon🍀</h2>
 <p align="center">
   <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksone02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />  -->
   <a href="https://www.instagram.com/ksone02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ksone02"/></a>
