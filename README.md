@@ -42,4 +42,4 @@
   <a href="https://velog.io/@ksone02"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksone02&column=4&no-frame=true&margin-w=10&margin-h=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ksone02&column=4&no-frame=true&margin-w=10&margin-h=10&no-bg=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
