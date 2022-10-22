@@ -1,4 +1,4 @@
-<h2 align="left">Techs that I've used at least once</h2>
+<h2 align="left">Stack</h2>
 
 <h3 align="left">🌲Front🌲</h3>
 <p align="left">  
