@@ -46,4 +46,4 @@
 
 <h3 align="left">NPM Package</h3>
 
-<img alt="preview badge" src="https://img.shields.io/npm/v/react-random-slot-machine?label=react-random-slot-machine&style=flat-square&logo=react&color=blue">
+[<img alt="preview badge" src="https://img.shields.io/npm/v/react-random-slot-machine?label=react-random-slot-machine&style=flat-square&logo=react&color=blue">](https://www.npmjs.com/package/react-random-slot-machine)
