@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
-
+/npm/v/:scope/:packageName
 <h2 align="left">🍀Sangwon🍀</h2>
 <p align="left">
   <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksone02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />  -->
@@ -43,3 +43,7 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ksone02&column=4&no-frame=true&margin-w=10&margin-h=10&no-bg=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3 align="left">NPM Package</h3>
+
+<img alt="preview badge" src="https://img.shields.io/npm/v/react-random-slot-machine?label=react-random-slot-machine&style=flat-square&logo=react&color=blue">
