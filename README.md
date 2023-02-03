@@ -1,3 +1,9 @@
+<h2 align="left">👤Profile👤</h2>
+
+- 명지대학교 융합소프트웨어학부 데이터테크놀로지전공 21학번
+- DEPth 1기 프론트엔드 팀장
+- 우아한테크코스 5기 웹 프론트엔드
+
 <h2 align="left">🔨Stack🔨</h2>
 
 <h3 align="left">🌲Front🌲</h3>
