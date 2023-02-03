@@ -1,18 +1,14 @@
-<h2 align="left">👤Profile👤</h2>
+<h2 align="left">👤 Profile</h2>
 
 - 명지대학교 융합소프트웨어학부 데이터테크놀로지전공 21학번
 - DEPth 1기 프론트엔드 팀장
 - 우아한테크코스 5기 웹 프론트엔드
 
-<h2 align="left">🔨Stack🔨</h2>
-
-<h3 align="left">🌲Front🌲</h3>
+<h2 align="left">🔨 Stack</h2>
 <p align="left">  
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
-
-<h3 align="left">☄Back☄</h3>
 <p align="left">  
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
@@ -28,8 +24,6 @@
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 
-
-<h3 align="left">🌊Programming🌊</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -40,17 +34,6 @@
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
-<h2 align="left">🍀Sangwon🍀</h2>
-<p align="left">
-  <!--<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fksone02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />  -->
-  <a href="https://www.instagram.com/ksone__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ksone02"/></a>
-  <a href="https://velog.io/@ksone02"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksone02&column=4&no-frame=true&margin-w=10&margin-h=10&no-bg=true&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<h3 style=color:red align="left"><img height=15px src="http://is.am/597k" /> NPM Package</h3>
-
+<h2 style=color:red align="left"><img height=15px src="http://is.am/597k" /> NPM Packages</h2>
   
 [<img alt="preview badge" src="https://img.shields.io/npm/v/react-random-slot-machine?label=react-random-slot-machine&style=flat-square&logo=react&color=blue">](https://www.npmjs.com/package/react-random-slot-machine)
