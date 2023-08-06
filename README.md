@@ -5,11 +5,19 @@
 - 우아한테크코스 5기 웹 프론트엔드
 - (주)나눔비타민 프론트엔드 엔지니어
 
+<h2 align="left">🔨 Interested in</h2>
+
+- Design
+- DevOps
+- FullStack
+
 <h2 align="left">🔨 Stack</h2>
 <p align="left">  
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
+
 <p align="left">  
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>
@@ -20,9 +28,15 @@
   <img src="https://img.shields.io/badge/-Amazon AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github Action-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/-Microsoft Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Azure Devops-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 </p>
 
 <p align="left">
