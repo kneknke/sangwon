@@ -25,7 +25,7 @@ const SangwonKang: Developer = {
   interestedIn: ['UI/UX', 'DevOps', 'FullStack(App/Web)'],
   contact: {
     email: 'eksovus@gmail.com',
-    instagram: 'https://www.instagram.com/ksone__/',
+    instagram: 'https://www.instagram.com/ksone__',
   },
 };
 ```
