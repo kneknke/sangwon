@@ -11,7 +11,7 @@ interface Contact {
   instagram: string;
 }
 
-const SangwonKang: Developer = {
+const sangwonKang: Developer = {
   summary: 'Who love the process of creating a service that will satisfy the user',
   profile: [
     '명지대 정보통신공학과 21학번 (21.03 ~ 22.02)',
