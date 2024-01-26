@@ -20,7 +20,7 @@ const sangwonKang: Developer = {
     '명지대 융합소프트웨어학부 데이터테크놀로지전공 (22.03 ~ ing)',
     'DEPth 1기 Frontend Lead (22.02 ~ 23.02)',
     '우아한테크코스 5기 Web Frontend (23.02 ~ 23.10)',
-    '(주)나눔비타민 Frontend Lead (23.03 ~ ing)',
+    '(주)나눔비타민 CPO, Frontend Developer (23.03 ~ ing)',
   ],
   interestedIn: ['UI/UX', 'DevOps', 'FullStack(App/Web)'],
   contact: {
